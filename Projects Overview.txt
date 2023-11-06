@@ -1,0 +1,55 @@
+Azure Capstone Project:
+===================
+Here is a brief overview for Azure Capstone Project;
+
+
+In this project, a network infrastructure is designed with four virtual machines (VMs) spread across two separate Virtual Networks (VNETs).
+These VNETs are interconnected using Peering, enabling communication between the VMs while maintaining network isolation.
+Additionally, each VNET is equipped with its own Application Gateway, providing advanced load balancing capabilities.
+
+Furthermore, a Traffic Manager is implemented to efficiently distribute incoming network traffic across all four VMs, ensuring optimal 
+performance and high availability. this setup enhances the overall network reliability, scalability, and security by utilizing Azure's robust networking 
+features, facilitating seamless communication and load distribution for the deployed applications.
+
+AWS Capstone Projects:
+==================
+Here is a brief explanation which you can use to describe the projects done:
+
+Project 1 – Deploying a Multi-Tier Website using AWS EC2 with Amazon RDS:
+
+In Project 1, we successfully deployed a Multi-Tier Website using Amazon Web Services (AWS) Elastic Compute Cloud (EC2) instances along with 
+Amazon Relational Database Service (RDS).This project was a testament to our expertise in designing and implementing a scalable and reliable 
+web infrastructure.We utilized AWS EC2 for hosting our web application, leveraging its resizable compute capacity in the cloud to ensure seamless 
+performance.
+
+Additionally, we integrated Amazon RDS, a managed relational database service, into our architecture.
+This allowed us to establish a robust database tier, ensuring efficient data storage, retrieval, and management.
+By configuring virtual servers, load balancers, and databases, and integrating RDS, we achieved optimal performance, security, and scalability for our 
+website.The inclusion of Amazon RDS enhanced the reliability of our database operations, contributing to the overall success of the project.
+
+Project 2 – Publishing Amazon SNS Messages Privately with VPC Endpoint:
+
+In Project 2, we focused on the secure publication of messages using Amazon Simple Notification Service (SNS), ensuring private communication channels.
+To enhance the security of our messaging system, we implemented a Virtual Private Cloud (VPC) endpoint.
+This VPC endpoint allowed private and direct access to SNS without traversing the public internet, enhancing the confidentiality and integrity of our 
+messages. By leveraging this advanced networking feature, we established a secure communication pathway between our application and SNS, mitigating 
+the risks associated with public internet communication.
+
+This project not only demonstrated our expertise in secure messaging but also highlighted our commitment to adopting advanced networking solutions, 
+ensuring the privacy and security of sensitive data transmissions.
+
+If you may have any questions, feel free to reach out to us, we will be glad to help you from our end.
+
+DevOps Capstone Projects:
+=====================
+Project 1: Application Deployment Using CI/CD Tools
+Implemented a git workflow architecture and used Jenkins jobs to deploy a container on specific ports for
+different branches, including the develop branch for testing the Dockerfile, the master branch for testing
+the final version of the Dockerfile, and the production server for the final release of the product. The
+process was automated using Jenkins, Git, and Docker.
+
+Project2: Deployment of Application using Orchestration, containerization, and IAC Tools
+Automated containerized application deployment using Git, Docker, Jenkins, Kubernetes, and Terraform.
+Built the cloud infrastructure in AWS, configuring servers with Configuration Management tools, and
+implementing CI/CD pipelines with Jenkins. Used Kubernetes to create clusters and services,
+containerizing application with Dockerfile, and adhering to git workflow architecture.
