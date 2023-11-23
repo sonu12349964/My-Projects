@@ -38,8 +38,6 @@ the risks associated with public internet communication.
 This project not only demonstrated our expertise in secure messaging but also highlighted our commitment to adopting advanced networking solutions, 
 ensuring the privacy and security of sensitive data transmissions.
 
-If you may have any questions, feel free to reach out to us, we will be glad to help you from our end.
-
 DevOps Capstone Projects:
 =====================
 Project 1: Application Deployment Using CI/CD Tools
